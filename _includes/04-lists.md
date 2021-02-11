@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+ - My Favorite things
+  - Video Games
+  - Anime
+  - Ramen
+  - More Ramen
+  - Did I say Ramen?
