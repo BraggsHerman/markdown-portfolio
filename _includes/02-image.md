@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pic of my Avatar](https://postimg.cc/7GzzvjBk)
